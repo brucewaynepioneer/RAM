@@ -3,6 +3,14 @@
 </h1>
 
 
+## Deploy to Heroku
+
+You can deploy this bot to Heroku with a single click:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/brucewaynepioneer/RAM/tree/main)
+
+
+
 Contact: [Telegram](https://t.me/save_restricted_content_bots)
 
 ---
